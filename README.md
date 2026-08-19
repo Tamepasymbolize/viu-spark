@@ -31,4 +31,4 @@ It's aimed at everyday users as much as power users.
 ## Main features
 - **High-Quality Playback:** Up to 4K HDR video and lossless audio streaming quality.
 - **Personalized Discovery:** AI-powered recommendations based on viewing and listening history.
-- **Family Sharing:** Multiple profiles with individual preferences and parental controls.  
+- **Family Sharing:** Multiple profiles with individual preferences and parental controls.   
